@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 Saya seorang Junior BackEnd, saya sedang belajar menggunakan Laravel, Inertia, and React.
+- 🌱 Dilain waktu saya ingin mencoba NextJS dan React Native (Expo).
+- 📫 How to reach me: Telegram @Shinchan_Dev
+- 💬 Ask me about: Info Mabar Mobile Legend 😄
 <!--
 **sanikhsan/sanikhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
