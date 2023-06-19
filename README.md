@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-- 🌱 Saya seorang Junior BackEnd, saya sedang belajar menggunakan Laravel, Inertia, and React.
+- 🌱 Saya seorang Junior Back End tanpa pengalaman di Industri, saya sedang belajar menggunakan Laravel, Inertia, and React.
 - 🌱 Dilain waktu saya ingin mencoba NextJS dan React Native (Expo).
-- 📫 How to reach me: Telegram @Shinchan_Dev
-- 💬 Ask me about: Info Mabar Mobile Legend 😄
+- 🔭 Saya sedang mencari pengalaman sebagai Junior Back End.
+- 📫 Hubungi saya: Telegram @Shinchan_Dev
+- ⚡ Fun fact: Saya senang belajar bahasa pemrograman secara mandiri atau online, salah satunya di [Dicoding Academy](https://www.dicoding.com/users/sanikhsan/academies "Profile Dicoding SanIkhsan")
 <!--
 **sanikhsan/sanikhsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
